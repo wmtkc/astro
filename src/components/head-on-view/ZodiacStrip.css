@@ -1,0 +1,32 @@
+
+.zodiac-strip {
+    height: 10rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.sign-domain {
+    display: flex;
+    flex-direction: column;
+    width: 8.33%;
+    justify-content: center;
+    border-right: 2pt solid #888;
+}
+
+.sign-domain:last-child {
+    border: none;
+}
+
+.glyph {
+    align-self: center;
+    padding: 1rem;
+    transition: all 300ms;
+    overflow: visible
+}
+
+/* extrude */
+.glyph:hover {
+    transform: translate(-1pt, -1pt);
+    filter: drop-shadow(1pt 1pt 0);
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.625"
+   height="42.40625"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45+devel"
+   version="1.0"
+   sodipodi:docname="Astro_signs.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.185"
+     inkscape:cx="313.67197"
+     inkscape:cy="196.67688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="838"
+     inkscape:window-height="695"
+     inkscape:window-x="17"
+     inkscape:window-y="70"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="46.625"
+       height="42.40625"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Astro_signs</dc:title>
+        <dc:date>12 February 2008</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tavmjong Bah</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Astrological signs</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-220.8125,-160.72646)">
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Arev Sans';-inkscape-font-specification:'Arev Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 238.65625,189.07021 H 220.8125 v -4.6875 h 10.75 c -0.75001,-0.95831 -1.37501,-1.99998 -1.875,-3.125 -0.77084,-1.77081 -1.15626,-3.64581 -1.15625,-5.625 -1e-5,-2.04164 0.38541,-3.94789 1.15625,-5.71875 0.81249,-1.8333 1.95832,-3.44788 3.4375,-4.84375 1.47915,-1.3958 3.16665,-2.47913 5.0625,-3.25 1.81248,-0.72913 3.79164,-1.09371 5.9375,-1.09375 2.24997,4e-5 4.22914,0.36462 5.9375,1.09375 1.97913,0.85421 3.66663,1.93754 5.0625,3.25 1.47913,1.39587 2.62496,3.01045 3.4375,4.84375 0.77079,1.77086 1.15621,3.67711 1.15625,5.71875 -4e-5,1.97919 -0.38546,3.85419 -1.15625,5.625 -0.50004,1.12502 -1.12504,2.16669 -1.875,3.125 h 10.75 v 4.6875 h -17.875 v -4.6875 c 0.79163,-0.43748 1.54163,-0.96873 2.25,-1.59375 1.0208,-0.89581 1.82288,-1.99998 2.40625,-3.3125 0.54163,-1.22914 0.81246,-2.52081 0.8125,-3.875 -4e-5,-1.37497 -0.27087,-2.67705 -0.8125,-3.90625 -0.56254,-1.22914 -1.36462,-2.3333 -2.40625,-3.3125 -0.9792,-0.8958 -2.15628,-1.63538 -3.53125,-2.21875 -1.18753,-0.49996 -2.57295,-0.74996 -4.15625,-0.75 -1.50003,4e-5 -2.88544,0.25004 -4.15625,0.75 -1.31252,0.52087 -2.4896,1.26045 -3.53125,2.21875 -1.04168,0.9792 -1.84377,2.08336 -2.40625,3.3125 -0.54168,1.2292 -0.81252,2.53128 -0.8125,3.90625 -2e-5,1.35419 0.27082,2.64586 0.8125,3.875 0.56248,1.22919 1.36457,2.33335 2.40625,3.3125 0.64581,0.60419 1.3854,1.13543 2.21875,1.59375 v 4.6875 m -17.84375,14.0625 v -4.6875 h 46.625 v 4.6875 h -46.625"
+       id="text2429" />
+  </g>
+</svg>

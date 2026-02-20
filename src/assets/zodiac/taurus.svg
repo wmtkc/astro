@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="49.0625"
+   height="47.6875"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45+devel"
+   version="1.0"
+   sodipodi:docname="Astro_signs.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.185"
+     inkscape:cx="313.67197"
+     inkscape:cy="196.67688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="838"
+     inkscape:window-height="695"
+     inkscape:window-x="17"
+     inkscape:window-y="70"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="49.0625"
+       height="47.6875"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Astro_signs</dc:title>
+        <dc:date>12 February 2008</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tavmjong Bah</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Astrological signs</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-130.84375,-47.585831)">
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Arev Sans';-inkscape-font-specification:'Arev Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.9375,59.023331 c -0.56251,-1.333297 -1.36459,-2.520796 -2.40625,-3.5625 -0.95834,-0.958294 -2.13542,-1.74996 -3.53125,-2.375 -1.20834,-0.541625 -2.59375,-0.812458 -4.15625,-0.8125 v -4.6875 c 2.14583,4.6e-5 4.12499,0.385463 5.9375,1.15625 1.89582,0.812545 3.58332,1.94796 5.0625,3.40625 1.49999,1.479207 2.64582,3.177122 3.4375,5.09375 0.56248,1.333369 1.36457,2.520868 2.40625,3.5625 0.95831,0.958366 2.1354,1.750032 3.53125,2.375 1.20831,0.541697 2.59372,0.81253 4.15625,0.8125 1.49997,3e-5 2.88539,-0.270803 4.15625,-0.8125 1.3333,-0.562469 2.51038,-1.354134 3.53125,-2.375 1.04163,-1.041632 1.84371,-2.229131 2.40625,-3.5625 0.79163,-1.916628 1.93746,-3.614543 3.4375,-5.09375 1.47912,-1.45829 3.16662,-2.593705 5.0625,-3.40625 1.81245,-0.770787 3.79162,-1.156204 5.9375,-1.15625 v 4.6875 c -1.56255,4.2e-5 -2.94797,0.270875 -4.15625,0.8125 -1.39588,0.62504 -2.57296,1.416706 -3.53125,2.375 -1.04171,1.041704 -1.84379,2.229203 -2.40625,3.5625 -0.79171,1.895866 -1.93754,3.593781 -3.4375,5.09375 -0.7292,0.729196 -1.67712,1.468778 -2.84375,2.21875 1.16663,0.750027 2.11455,1.48961 2.84375,2.21875 1.49996,1.500024 2.64579,3.197939 3.4375,5.09375 0.77079,1.875019 1.15621,3.885433 1.15625,6.03125 -4e-5,2.083346 -0.38546,4.06251 -1.15625,5.9375 -0.81254,1.916673 -1.95837,3.614588 -3.4375,5.09375 -1.4792,1.458335 -3.1667,2.593751 -5.0625,3.40625 -1.81253,0.770833 -3.7917,1.156249 -5.9375,1.15625 -2.25002,-10e-7 -4.22919,-0.385417 -5.9375,-1.15625 -1.97919,-0.895832 -3.66668,-2.031248 -5.0625,-3.40625 -1.47918,-1.479162 -2.62501,-3.177077 -3.4375,-5.09375 -0.77084,-1.87499 -1.15626,-3.854154 -1.15625,-5.9375 -1e-5,-2.145817 0.38541,-4.156231 1.15625,-6.03125 0.83332,-2.020811 1.97915,-3.718726 3.4375,-5.09375 0.89582,-0.85414 1.85415,-1.593723 2.875,-2.21875 -1.04168,-0.624972 -2.00002,-1.364554 -2.875,-2.21875 -1.45835,-1.416635 -2.60418,-3.11455 -3.4375,-5.09375 m 18.59375,10.46875 c -1.27086,-0.541642 -2.65628,-0.812475 -4.15625,-0.8125 -1.50003,2.5e-5 -2.88544,0.270858 -4.15625,0.8125 -1.29169,0.583357 -2.46877,1.375023 -3.53125,2.375 -1.08335,1.125021 -1.88543,2.31252 -2.40625,3.5625 -0.54168,1.312517 -0.81252,2.729183 -0.8125,4.25 -2e-5,1.458346 0.27082,2.843762 0.8125,4.15625 0.52082,1.250009 1.3229,2.437508 2.40625,3.5625 1.06248,1.000006 2.23956,1.791672 3.53125,2.375 1.27081,0.54167 2.65622,0.812503 4.15625,0.8125 1.49997,3e-6 2.88539,-0.27083 4.15625,-0.8125 1.29163,-0.583328 2.46872,-1.374994 3.53125,-2.375 1.0833,-1.124992 1.88538,-2.312491 2.40625,-3.5625 0.54163,-1.312488 0.81246,-2.697904 0.8125,-4.15625 -4e-5,-1.520817 -0.27087,-2.937483 -0.8125,-4.25 -0.52087,-1.24998 -1.32295,-2.437479 -2.40625,-3.5625 -1.06253,-0.999977 -2.23962,-1.791643 -3.53125,-2.375"
+       id="text2433" />
+  </g>
+</svg>

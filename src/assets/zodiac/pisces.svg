@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.6875"
+   height="46.65625"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45+devel"
+   version="1.0"
+   sodipodi:docname="Astro_signs.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.185"
+     inkscape:cx="313.67197"
+     inkscape:cy="196.67688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="838"
+     inkscape:window-height="695"
+     inkscape:window-x="17"
+     inkscape:window-y="70"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="39.6875"
+       height="46.65625"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Astro_signs</dc:title>
+        <dc:date>12 February 2008</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tavmjong Bah</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Astrological signs</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-313.03125,-269.10144)">
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Arev Sans';-inkscape-font-specification:'Arev Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.78125,294.78894 h -9.8125 c -0.25002,4.12502 -1.1146,7.96876 -2.59375,11.53125 -1.35418,3.27084 -3.31252,6.41667 -5.875,9.4375 h -6.46875 c 3.81249,-3.70833 6.47915,-7.45833 8,-11.25 1.24998,-3.08332 1.98957,-6.3229 2.21875,-9.71875 h -9.28125 v -4.6875 H 323.25 c -0.22918,-3.3958 -0.96877,-6.63538 -2.21875,-9.71875 -1.54168,-3.79163 -4.20834,-7.55204 -8,-11.28125 H 319.5 c 2.54165,3.02088 4.49998,6.17712 5.875,9.46875 1.49998,3.56253 2.36456,7.40628 2.59375,11.53125 h 9.8125 c 0.22913,-4.12497 1.09372,-7.96872 2.59375,-11.53125 1.37496,-3.29163 3.3333,-6.44787 5.875,-9.46875 h 6.46875 c -3.79171,3.72921 -6.45837,7.48962 -8,11.28125 -1.25004,3.08337 -1.98962,6.32295 -2.21875,9.71875 h 8.96875 v 4.6875 H 342.5 c 0.22913,3.39585 0.96871,6.63543 2.21875,9.71875 1.52079,3.79167 4.18746,7.54167 8,11.25 H 346.25 c -2.56254,-3.02083 -4.52087,-6.16666 -5.875,-9.4375 -1.4792,-3.62499 -2.34378,-7.46873 -2.59375,-11.53125"
+       id="text2465" />
+  </g>
+</svg>
