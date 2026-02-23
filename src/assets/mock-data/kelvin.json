@@ -1,0 +1,66 @@
+{
+    "name": "Kelvin",
+    "birthTimeLocal": "1997-08-26 19:11",
+    "birthLoc": "",
+    "birthCity": "dayton, ohio, usa",
+    "homeLoc": "",
+    "homeCity": "tianjin, china",
+    "planets": {
+        "sol": {
+            "degree": 153
+        },
+        "luna": {
+            "degree": 86
+        },
+        "mercury": {
+            "degree": 162,
+            "retro": true
+        },
+        "venus": {
+            "degree": 191
+        },
+        "mars": {
+            "degree": 217
+        },
+        "jupiter": {
+            "degree": 31,
+            "retro": true
+        },
+        "saturn": {
+            "degree": 19,
+            "retro": true
+        },
+        "uranus": {
+            "degree": 305,
+            "retro": true
+        },
+        "neptune": {
+            "degree": 297,
+            "retro": true
+        },
+        "pluto": {
+            "degree": 242
+        },
+        "ceres": {
+            "degree": 337,
+            "retro": true
+        },
+        "eris": {
+            "degree": 19
+        },
+        "chiron": {
+            "degree": 209
+        },
+        "lilith": {
+            "degree": 167
+        },
+        "northNode": {
+            "degree": 170,
+            "retro": true
+        },
+        "southNode": {
+            "degree": 350,
+            "retro": true
+        }
+    }
+}

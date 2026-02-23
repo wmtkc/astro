@@ -9,8 +9,11 @@ const Sign = (sign: Zodiac.Sign) => {
                 className="glyph" 
                 color={sign.element.stroke}
                 fill={sign.element.fill} 
+                fillOpacity={0.9}
                 stroke={sign.element.stroke} 
-                strokeWidth="2pt" />
+                strokeWidth="2pt" 
+                strokeOpacity={0.6}
+                />
         </div>
     )
 }

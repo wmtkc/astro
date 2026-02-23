@@ -1,0 +1,61 @@
+{
+    "name": "Now",
+    "birthTimeLocal": "1997-08-26 19:11",
+    "birthLoc": "",
+    "birthCity": "dayton, ohio, usa",
+    "homeLoc": "",
+    "homeCity": "tianjin, china",
+    "planets": {
+        "sol": {
+            "degree": 334
+        },
+        "luna": {
+            "degree": 48
+        },
+        "mercury": {
+            "degree": 351
+        },
+        "venus": {
+            "degree": 346
+        },
+        "mars": {
+            "degree": 324
+        },
+        "jupiter": {
+            "degree": 105,
+            "retro": true
+        },
+        "saturn": {
+            "degree": 1
+        },
+        "uranus": {
+            "degree": 57
+        },
+        "neptune": {
+            "degree": 0
+        },
+        "pluto": {
+            "degree": 304
+        },
+        "ceres": {
+            "degree": 22
+        },
+        "eris": {
+            "degree": 24
+        },
+        "chiron": {
+            "degree": 23
+        },
+        "lilith": {
+            "degree": 247
+        },
+        "northNode": {
+            "degree": 339,
+            "retro": true
+        },
+        "southNode": {
+            "degree": 159,
+            "retro": true
+        }
+    }
+}

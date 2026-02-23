@@ -1,14 +1,19 @@
 import './EclipticStrip.css'
 import RetroGlyph from '../../assets/planets/retro.svg?react'
-import * as Planets from '../../assets/planets/Planets'
+import { PlanetStyles } from '../../assets/planets/Planets'
+import type { Planet, PlanetList } from '../../assets/planets/Planets'
 import { Fragment, useEffect, useRef, useState } from 'react'
 
-const Planet = (planet: Planets.Planet, drawLength: number) => {
+type PlanetKey = keyof typeof PlanetStyles
+
+const Planet = (planet: Planet, drawLength: number, key: PlanetKey) => {
+    const planetStyle = PlanetStyles[key]
+
     // everything measured in pt except drawLength which relies on width calculations
-    const size = planet.size ?? 20
+    const size = planetStyle.size ?? 20
     const glyphLeftLoc = (drawLength / 360) * planet.degree - (0.75 * size)
     const glyphTopLoc = - size / 2 - 1
-    const strokeWidth = planet.strokeWidth ?? 0.9
+    const strokeWidth = planetStyle.strokeWidth ?? 0.9
 
     const retroSize = (size - 10 > 8) ? size - 10 : 8
     const retroLeftLoc = (retroSize <= 8) 
@@ -20,14 +25,14 @@ const Planet = (planet: Planets.Planet, drawLength: number) => {
     const retroStrokeWidth = strokeWidth - 0.1
 
     return (
-        <Fragment key={planet.name}>
+        <Fragment key={key}>
             { drawLength &&
-            <planet.glyph 
+            <planetStyle.glyph 
                 className="glyph" 
                 style={{ top: glyphTopLoc + "pt", left: glyphLeftLoc }}
-                fill={planet.fill ?? "none"}
-                color={planet.stroke}
-                stroke={planet.stroke} 
+                fill={planetStyle.fill ?? "none"}
+                color={planetStyle.stroke}
+                stroke={planetStyle.stroke} 
                 strokeWidth={strokeWidth + "pt"} 
                 height={size + "pt"}
                 width={size + "pt"} /> }
@@ -36,8 +41,8 @@ const Planet = (planet: Planets.Planet, drawLength: number) => {
                 className="glyph" 
                 style={{ top: retroTopLoc + "pt", left: retroLeftLoc }}
                 fill="none"
-                color={planet.stroke}
-                stroke={planet.stroke} 
+                color={planetStyle.stroke}
+                stroke={planetStyle.stroke} 
                 strokeWidth={retroStrokeWidth + "pt"} 
                 height={retroSize + "pt"}
                 width={retroSize + "pt"} /> }
@@ -45,7 +50,7 @@ const Planet = (planet: Planets.Planet, drawLength: number) => {
     )
 }
 
-const EclipticStrip = () => {
+const EclipticStrip = (chartData: PlanetList) => {
     const eclipticRef = useRef<HTMLDivElement>(null)
     const [eclipticLen, setEclipticLen] = useState(0)
 
@@ -63,9 +68,9 @@ const EclipticStrip = () => {
     return (
         <div className="ecliptic-strip">
             <div className="ecliptic" ref={eclipticRef}>
-                { Object.values(Planets.Planets)
+                { Object.entries(chartData)
                     .reverse()
-                    .map(planet => (Planet(planet, eclipticLen)))
+                    .map(([key, planet]) => (Planet(planet, eclipticLen, key as PlanetKey)))
                 }
             </div>
         </div>

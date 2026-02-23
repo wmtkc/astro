@@ -26,14 +26,32 @@ export type Planet = {
     retro: boolean
 }
 
-export const Planets = {
+export type PlanetList = {
+    sol: Planet,
+    luna: Planet,
+    mercury: Planet,
+    venus: Planet,
+    mars: Planet,
+    jupiter: Planet,
+    saturn: Planet,
+    uranus: Planet,
+    neptune: Planet,
+    pluto: Planet,
+    ceres: Planet,
+    eris: Planet,
+    chiron: Planet,
+    lilith: Planet,
+    northNode: Planet,
+    southNode: Planet
+}
+
+export const PlanetStyles: PlanetList = {
     sol: {
         name: 'Sun',
         glyph: SolarGlyph,
         size: 30,
         stroke: 'ivory',
         strokeWidth: 1,
-        degree: 153
     } as Planet,
 
     luna: {
@@ -41,68 +59,54 @@ export const Planets = {
         glyph: LunarGlyph,
         size: 30,
         stroke: 'midnightblue',
-        degree: 86
     } as Planet,
 
     mercury: {
         name: 'Mercury',
         glyph: MercuryGlyph,
         stroke: 'blue',
-        degree: 162,
-        retro: true
     } as Planet,
 
     venus: {
         name: 'Venus',
         glyph: VenusGlyph,
         stroke: 'yellow',
-        degree: 191
     } as Planet,
 
     mars: {
         name: 'Mars',
         glyph: MarsGlyph,
         stroke: 'orange',
-        degree: 217
     } as Planet,
 
     jupiter: {
         name: 'Jupiter',
         glyph: JupiterGlyph,
         stroke: '#9B26B6',
-        degree: 314,
-        retro: true
     } as Planet,
 
     saturn: {
         name: 'Saturn',
         glyph: SaturnGlyph,
         stroke: '#D9027D',
-        degree: 19,
-        retro: true
     } as Planet,
     
     uranus: {
         name: 'Uranus',
         glyph: UranusGlyph,
         stroke: 'turquoise',
-        degree: 305,
-        retro: true
     } as Planet,
 
     neptune: {
         name: 'Neptune',
         glyph: NeptuneGlyph,
         stroke: 'cyan',
-        degree: 297,
-        retro: true
     } as Planet,
 
     pluto: {
         name: 'Pluto',
         glyph: PlutoGlyph,
         stroke: 'red',
-        degree: 242
     } as Planet,
 
     ceres: {
@@ -110,8 +114,6 @@ export const Planets = {
         glyph: CeresGlyph,
         size: 16,
         stroke: '#00ff00',
-        degree: 337,
-        retro: true
     } as Planet,
 
     eris: {
@@ -119,7 +121,6 @@ export const Planets = {
         glyph: ErisGlyph,
         size: 16,
         stroke: 'magenta',
-        degree: 19
     } as Planet,
 
     chiron: {
@@ -128,7 +129,6 @@ export const Planets = {
         stroke: 'black',
         size: 14,
         strokeWidth: 0.6,
-        degree: 209
     } as Planet,
 
     lilith: {
@@ -138,7 +138,6 @@ export const Planets = {
         fill: 'black',
         stroke: 'black',
         strokeWidth: 0.6,
-        degree: 167,
     } as Planet,
 
     northNode: {
@@ -147,8 +146,6 @@ export const Planets = {
         stroke: 'black',
         size: 14,
         strokeWidth: 0.6,
-        degree: 170,
-        retro: true
     } as Planet,
 
     southNode: {
@@ -157,7 +154,5 @@ export const Planets = {
         stroke: 'black',
         size: 14,
         strokeWidth: 0.6,
-        degree: 350,
-        retro: true
     } as Planet,
 }

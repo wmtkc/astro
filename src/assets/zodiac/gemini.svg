@@ -98,7 +98,7 @@
      id="layer1"
      transform="translate(-220.8125,-47.226456)">
     <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Arev Sans';-inkscape-font-specification:'Arev Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:125%;font-family:'Arev Sans';-inkscape-font-specification:'Arev Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:miter;"
        d="m 257.25,89.007706 c 3.47912,0.479172 6.87495,1.135421 10.1875,1.96875 v 4.65625 c -7.37504,-1.854166 -15.14587,-2.781248 -23.3125,-2.78125 -8.16669,2e-6 -15.93751,0.927084 -23.3125,2.78125 v -4.65625 c 3.31249,-0.833329 6.70832,-1.489578 10.1875,-1.96875 v -35.15625 c -3.47918,-0.479126 -6.87501,-1.135375 -10.1875,-1.96875 v -4.65625 c 7.37499,1.854212 15.14581,2.781294 23.3125,2.78125 8.16663,4.4e-5 15.93746,-0.927038 23.3125,-2.78125 v 4.65625 c -3.31255,0.833375 -6.70838,1.489624 -10.1875,1.96875 v 35.15625 m -4.6875,-34.65625 c -2.77087,0.229207 -5.58336,0.34379 -8.4375,0.34375 -2.85419,4e-5 -5.66669,-0.114543 -8.4375,-0.34375 v 34.15625 c 2.77081,-0.229161 5.58331,-0.343744 8.4375,-0.34375 2.85414,6e-6 5.66663,0.114589 8.4375,0.34375 v -34.15625"
        id="text2425" />
   </g>

@@ -1,0 +1,23 @@
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+
+.app-page {
+  max-width: 95%;
+  height: 100%;
+  margin: auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.date-stamp {
+    width: 100%;
+    text-align: center;
+    color: lemonchiffon;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 14pt;
+}
