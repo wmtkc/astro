@@ -4,7 +4,7 @@ import * as Zodiac from '../../assets/zodiac/Zodiac'
 
 const Sign = (sign: Zodiac.Sign) => {
     return (
-        <div className="sign-domain">
+        <div className="sign-domain" key={sign.name}>
             <sign.glyph 
                 className="glyph" 
                 color={sign.element.stroke}

@@ -11,14 +11,14 @@
     flex-direction: column;
     width: 8.33%;
     justify-content: center;
-    border-right: 2pt solid #888;
+    border-right: 2pt solid lemonchiffon;
 }
 
 .sign-domain:last-child {
     border: none;
 }
 
-.glyph {
+.sign-domain .glyph {
     align-self: center;
     padding: 1rem;
     transition: all 300ms;
@@ -26,7 +26,7 @@
 }
 
 /* extrude */
-.glyph:hover {
+.sign-domain .glyph:hover {
     transform: translate(-1pt, -1pt);
     filter: drop-shadow(1pt 1pt 0);
 }

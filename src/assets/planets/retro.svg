@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="12pt" height="12pt" viewBox="0 0 12 12" version="1.1" id="svg9" sodipodi:docname="Venus.svg" inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata id="metadata15">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs13"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1015" id="namedview11" showgrid="false" inkscape:snap-object-midpoints="true" inkscape:snap-midpoints="true" inkscape:zoom="20.85965" inkscape:cx="8" inkscape:cy="8" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg9"/>
+  <path inkscape:connector-curvature="0" id="path2" d="M 6,6 C 7.3789062,6 8.5,4.8789062 8.5,3.5 8.5,2.1210938 7.3789062,1 6,1" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" sodipodi:nodetypes="csc"/>
+  <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path4" d="M 8.49975,11.00025 6,6" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"/>
+  <path inkscape:connector-curvature="0" id="path4-3" d="M 3.5,11.00025 V 0.99975" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" sodipodi:nodetypes="cc"/>
+  <path inkscape:connector-curvature="0" id="path6-6" d="M 3.5000001,6 H 6" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" sodipodi:nodetypes="cc"/>
+  <path inkscape:connector-curvature="0" id="path6-7" d="M 3.5000001,1 H 6" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" sodipodi:nodetypes="cc"/>
+  <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path4-5" d="M 9.75,7.2502503 4.74975,9.7499997" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"/>
+</svg>

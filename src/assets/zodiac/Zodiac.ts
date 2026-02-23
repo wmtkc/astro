@@ -28,7 +28,7 @@ export const Elements = {
     fire: {
         name: 'Fire',
         fill: 'white',
-        stroke: 'red'
+        stroke: 'maroon'
     } as Element,
 
     earth: {
@@ -40,13 +40,13 @@ export const Elements = {
     air: {
         name: 'Air',
         fill: 'white',
-        stroke: 'gold'
+        stroke: 'goldenrod'
     } as Element,
 
     water: {
         name: 'Water',
         fill: 'white',
-        stroke: 'blue'
+        stroke: 'navy'
     } as Element
 }
 
