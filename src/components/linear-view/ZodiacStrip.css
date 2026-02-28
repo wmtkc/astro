@@ -1,9 +1,22 @@
+.zodiac-contanier {
+    display: block;
+}
+
+.aspect-domain {
+    position: fixed;
+    width: 95%;
+}
+
+.aspect-domain svg {
+    position: relative
+}
 
 .zodiac-strip {
     height: 10rem;
     width: 100%;
     display: flex;
     flex-direction: row;
+    padding: 2.5rem 0;
 }
 
 .sign-domain {
